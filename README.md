@@ -21,3 +21,4 @@
 * 2019-03-01 GetIT Meetup #2 (Megafon)
 * 2019-02-21 MoscowJS #44 (Avito)
 * 2019-02-20 Scalability Meetup #6 (Dodo Pizza)
+* 2019-02-17 DIYorDIE (mail.ru)
