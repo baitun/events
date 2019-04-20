@@ -2,7 +2,8 @@
 
 ## Conference
 
-* 2019-04-20 ITSubbotnik [link](https://events.epam.com/events/itsubbotnik-msk-spring-2019)
+* 2019-04-20 ITSubbotnik (EPAM) [link](https://events.epam.com/events/itsubbotnik-msk-spring-2019)
+* 2019-04-13 Web Standards Day #39 (WebStandards & Yandex)
 
 ## Meetups
 
