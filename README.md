@@ -13,6 +13,7 @@
 * 2019-04-11 Frontend Meetup (Raiffeisen)
 * 2019-04-10 MoscowJS Geo Meetup (mail.ru)
 * 2019-03-29 WineJS (ManyChat)
+* 2019-03-28 Scalability Meetup #7 (skyeng.ru)
 * 2019-03-27 JavaScript MeetUP (AlfaBank)
 * 2019-03-25 MoscowCSS #11 (Raiffeisen)
 * 2019-03-21 JS Meetup (ivi.ru)
