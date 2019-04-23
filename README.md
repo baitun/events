@@ -18,7 +18,7 @@
 * 2019-03-25 MoscowCSS #11 (Raiffeisen) [video](https://www.youtube.com/watch?v=ijZTu7aVJtg) [photos](https://www.facebook.com/1311819698861824/photos/?tab=album&album_id=2212829628760822)
 * 2019-03-21 JS Meetup (ivi.ru)
 * 2019-03-06 Frontend Meetup (Leroy Merlin & Revolut)
-* 2019-03-01 GetIT Meetup #2 (Megafon)
+* 2019-03-01 GetIT Meetup #2 (Megafon) [video](https://www.youtube.com/watch?v=EoU20VuZh6Q)
 * 2019-02-21 MoscowJS #44 (Avito)
 * 2019-02-20 Scalability Meetup #6 (Dodo Pizza)
 * 2019-02-17 DIYorDIE (mail.ru)
