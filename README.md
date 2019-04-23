@@ -15,7 +15,7 @@
 * 2019-03-29 WineJS (ManyChat)
 * 2019-03-28 Scalability Meetup #7 (skyeng.ru)
 * 2019-03-27 JavaScript MeetUP (AlfaBank)
-* 2019-03-25 MoscowCSS #11 (Raiffeisen)
+* 2019-03-25 MoscowCSS #11 (Raiffeisen) [video](https://www.youtube.com/watch?v=ijZTu7aVJtg) [photos](https://www.facebook.com/1311819698861824/photos/?tab=album&album_id=2212829628760822)
 * 2019-03-21 JS Meetup (ivi.ru)
 * 2019-03-06 Frontend Meetup (Leroy Merlin & Revolut)
 * 2019-03-01 GetIT Meetup #2 (Megafon)
