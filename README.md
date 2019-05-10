@@ -9,7 +9,7 @@
 ## Meetups
 
 * 2019-04-26 PiterJS Tour (ManyChat) [link](https://medium.com/piterjs/tour-1-b4a4bf911f56) [video](https://www.youtube.com/watch?v=MueYSY2ZO4Y)
-* 2019-04-23 GetIT Meetup #3 (GazPromBank) [slides](https://www.dropbox.com/sh/1atkxtu59x6itc1/AAAYyQuGNyIvGV5_ec09gXPda?dl=0)
+* 2019-04-23 GetIT Meetup #3 (GazPromBank) [slides](https://dropbox.com/sh/1atkxtu59x6itc1/AAAYyQuGNyIvGV5_ec09gXPda)
 * 2019-04-19 Panda Frontend Meetup (ozon) [link](http://panda-meetup.ru/msk-frontend-meetup) [photos](https://vk.com/album-167150595_262410117)
 * 2019-04-18 MobileJS (tinkoff) [link](https://meetup.tinkoff.ru/events/mobile-js)
 * 2019-04-16 JS Beer Meetup (sravni.ru)
