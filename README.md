@@ -8,6 +8,7 @@
 
 ## Meetups
 
+* 2019-05-17 Panda Frontend Meetup (Rifizen) [link](http://panda-meetup.ru/msk-frontend-meetup-2) [video](https://youtu.be/rkLSRn5Dlv0)
 * 2019-05-14 MoscowCSS #12 (tceh) [link](https://moscowcss.timepad.ru/event/966798/) [video](https://www.youtube.com/watch?v=LHOJybXuMdc)
 * 2019-05-10 Tver.io (JetRockets) [link](https://meetup.com/tverio/events/260568718) 
 * 2019-04-26 PiterJS Tour (ManyChat) [link](https://medium.com/piterjs/tour-1-b4a4bf911f56) [video](https://www.youtube.com/watch?v=MueYSY2ZO4Y)
