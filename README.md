@@ -2,6 +2,8 @@
 
 ## Conference
 
+* 2019-06-01 React Russia [link](https://axept.timepad.ru/event/971209/)
+* 2019-05-24 HolyJS
 * 2019-04-27 Yandex.Subbotnik [link](https://events.yandex.ru/events/yasubbotnik/27-april-2019/) [video](https://www.youtube.com/watch?v=jPqNyF0hH3k)
 * 2019-04-20 ITSubbotnik (EPAM) [link](https://events.epam.com/events/itsubbotnik-msk-spring-2019)
 * 2019-04-13 Web Standards Day #39 (WebStandards & Yandex)
