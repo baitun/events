@@ -8,6 +8,11 @@
 * 2019-04-20 ITSubbotnik (EPAM) [link](https://events.epam.com/events/itsubbotnik-msk-spring-2019)
 * 2019-04-13 Web Standards Day #39 (WebStandards & Yandex)
 
+## Hackathons
+
+* 2018-08-18 Tele2hack (Moscow, Russia)  [link](https://hackathon.tele2.ru/) [repo](https://github.com/baitun/tele2hack)
+* 2010-06-22 Decentralized Web Hackathon (Minsk, Belarus) [link](https://web3hack.dev/) [repo](https://github.com/baitun/VoteEX) [devpost](https://devpost.com/software/web3hack-8ncr2k)
+
 ## Meetups
 
 * 2019-05-17 Panda Frontend Meetup (Rifizen) [link](http://panda-meetup.ru/msk-frontend-meetup-2) [video](https://youtu.be/rkLSRn5Dlv0)
