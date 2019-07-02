@@ -10,11 +10,12 @@
 
 ## Hackathons
 
-* 2018-08-18 Tele2hack (Moscow, Russia)  [link](https://hackathon.tele2.ru/) [repo](https://github.com/baitun/tele2hack)
 * 2010-06-22 Decentralized Web Hackathon (Minsk, Belarus) [link](https://web3hack.dev/) [repo](https://github.com/baitun/VoteEX) [devpost](https://devpost.com/software/web3hack-8ncr2k)
+* 2018-08-18 Tele2hack (Moscow, Russia)  [link](https://hackathon.tele2.ru/) [repo](https://github.com/baitun/tele2hack)
 
 ## Meetups
 
+* 2019-07-27 SmartMail Meetup: Frontend (Mail.ru) [link](https://corp.mail.ru/ru/press/events/593/) [video](https://youtu.be/Sog6I9sDnX4)
 * 2019-05-17 Panda Frontend Meetup (Rifizen) [link](http://panda-meetup.ru/msk-frontend-meetup-2) [video](https://youtu.be/rkLSRn5Dlv0)
 * 2019-05-14 MoscowCSS #12 (tceh) [link](https://moscowcss.timepad.ru/event/966798/) [video](https://www.youtube.com/watch?v=LHOJybXuMdc)
 * 2019-05-10 Tver.io (JetRockets) [link](https://meetup.com/tverio/events/260568718) 
