@@ -15,7 +15,8 @@
 
 ## Meetups
 
-* 2019-07-27 SmartMail Meetup: Frontend (Mail.ru) [link](https://corp.mail.ru/ru/press/events/593/) [video](https://youtu.be/Sog6I9sDnX4)
+* 2019-07-03 Panda Meetup #22 (Avito) [link](https://panda-meetup.ru/msk-frontend-meetup-4) [video](https://youtu.be/ifP1FnMDiZI)
+* 2019-06-27 SmartMail Meetup: Frontend (Mail.ru) [link](https://corp.mail.ru/ru/press/events/593/) [video](https://youtu.be/Sog6I9sDnX4)
 * 2019-05-17 Panda Frontend Meetup (Rifizen) [link](http://panda-meetup.ru/msk-frontend-meetup-2) [video](https://youtu.be/rkLSRn5Dlv0)
 * 2019-05-14 MoscowCSS #12 (tceh) [link](https://moscowcss.timepad.ru/event/966798/) [video](https://www.youtube.com/watch?v=LHOJybXuMdc)
 * 2019-05-10 Tver.io (JetRockets) [link](https://meetup.com/tverio/events/260568718) 
