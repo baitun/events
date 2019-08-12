@@ -2,6 +2,7 @@
 
 ## Conference
 
+* 2019-08-01 IT Nights (Innopolis) [link](https://it-nights.ru/)
 * 2019-06-01 React Russia [link](https://axept.timepad.ru/event/971209/)
 * 2019-05-24 HolyJS
 * 2019-04-27 Yandex.Subbotnik [link](https://events.yandex.ru/events/yasubbotnik/27-april-2019/) [video](https://www.youtube.com/watch?v=jPqNyF0hH3k)
@@ -17,7 +18,7 @@
 ## Meetups
 
 * 2019-07-25 moscowcss #14 (Ozon)
-* 2019-07-20 BeerJS Minsk
+* 2019-07-20 BeerJS Summit Minsk
 * 2019-07-11 RamblerFront& #7 (Rambler) [link](https://rambler-co-e-org.timepad.ru/event/1013706/)
 * 2019-07-06 Panda Meetup #22 (Avito) [link](https://panda-meetup.ru/msk-frontend-meetup-4) [video](https://youtu.be/ifP1FnMDiZI)
 * 2019-06-27 SmartMail Meetup: Frontend (Mail.ru) [link](https://corp.mail.ru/ru/press/events/593/) [video](https://youtu.be/Sog6I9sDnX4)
