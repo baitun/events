@@ -12,11 +12,14 @@
 ## Hackathons
 
 * 2019-07-27 Цифровой прорыв (Moscow, Russia) [link](https://xn--b1aaqfxbbhefb3bya5f.xn--p1ai/) [repo](https://github.com/baitun/digital-hack)
-* 2010-06-22 Decentralized Web Hackathon (Minsk, Belarus) [link](https://web3hack.dev/) [repo](https://github.com/baitun/VoteEX) [devpost](https://devpost.com/software/web3hack-8ncr2k)
+* 2019-06-22 Decentralized Web Hackathon (Minsk, Belarus) [link](https://web3hack.dev/) [repo](https://github.com/baitun/VoteEX) [devpost](https://devpost.com/software/web3hack-8ncr2k)
 * 2018-08-18 Tele2hack (Moscow, Russia)  [link](https://hackathon.tele2.ru/) [repo](https://github.com/baitun/tele2hack)
 
 ## Meetups
 
+* 2019-08-17 SPA Meetup #5 (Avito) [📹](https://youtu.be/N4dn_abG2yI) [photo](https://vk.com/album-152990965_265331791)
+* 2019-08-15 ProgBlog Meetup: IT career in USA [📹](https://youtu.be/m5mPtC7LYiY)
+* 2019-08-08 ManySession #5
 * 2019-07-25 moscowcss #14 (Ozon)
 * 2019-07-20 BeerJS Summit Minsk
 * 2019-07-11 RamblerFront& #7 (Rambler) [link](https://rambler-co-e-org.timepad.ru/event/1013706/)
