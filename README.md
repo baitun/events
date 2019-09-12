@@ -2,6 +2,7 @@
 
 ## Conference
 
+* 2019-09-07 PiterJS conf [📹](https://youtu.be/A_fzyRC6XvU)
 * 2019-08-01 IT Nights (Innopolis) [link](https://it-nights.ru/)
 * 2019-06-01 React Russia [link](https://axept.timepad.ru/event/971209/)
 * 2019-05-24 HolyJS
@@ -17,6 +18,9 @@
 
 ## Meetups
 
+* 2019-09-10 Facebook Developer Circles
+* 2019-08-30 Podlodka Meetup (Google)
+* 2019-08-22 AngularNYC [📹](https://youtu.be/rse7-kzxetQ)
 * 2019-08-17 SPA Meetup #5 (Avito) [📹](https://youtu.be/N4dn_abG2yI) [photo](https://vk.com/album-152990965_265331791)
 * 2019-08-15 ProgBlog Meetup: IT career in USA [📹](https://youtu.be/m5mPtC7LYiY)
 * 2019-08-08 ManySession #5
